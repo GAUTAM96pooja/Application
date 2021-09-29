@@ -1,0 +1,7 @@
+body{
+    background-attachment: fixed;
+    background:rgba(53, 87, 92, 0.658) url(../img/bg.jpg) no-repeat ;
+    background-position: center;
+    font: normal small-caps normal 16px/1.4 Georgia ;
+}
+
